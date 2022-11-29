@@ -1,3 +1,3 @@
 # Snakee
-Простенькая <a href="https://anatolius228snake.netlify.app/" target="_blank">змейка</a> на фронте.
+Простенькая <a href="https://anatolius228snake.netlify.app/">змейка</a> на фронте.
 

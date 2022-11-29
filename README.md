@@ -1,3 +1,3 @@
 # Snakee
-Простенькая змейка на фронте
-<a href="https://anatolius228snake.netlify.app/">поиграйте</a>
+Простенькая <a href="https://anatolius228snake.netlify.app/" target="_blank">змейка</a> на фронте.
+
